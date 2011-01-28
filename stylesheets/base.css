@@ -1,0 +1,15 @@
+body { margin: 0; padding: 0; color:#FFF; font-family:Arial, Helvetica, sans-serif; color: #3a383a; background: #474749 -moz-radial-gradient(50% 50% 159deg,circle cover, #5A5B5D, #5A5B5D, #474648 70%); } 
+.content { width: 100%; margin: 0 auto; }
+.menu { width: 615px; margin: 0 auto; padding: 60px 0 200px 120px;}
+.menu h1 a { display: block; height: 360px; margin: 0; font: normal 144px "trebuchet MS"; color: #0094ac; text-indent: -3000px; background: url('/images/logo.png') 0 0 no-repeat;}
+.menu h2 { margin: 0; font: normal 30px arial; letter-spacing: 3px;}
+.menu h2 span { font: normal 36px arial; color: #0094b3; }
+.menu hr { width: 347px; height: 6px; margin: 40px auto; border: 0; background: url('/images/hr.png') 0 top no-repeat;}
+.menu ul { }
+.menu ul li { float: left; margin: 0 70px 0 0; list-style-type: none; }
+.menu ul li a { display: block; width: 70px; padding: 50px 0 0 0; font: normal 15px arial; color: #3a383a; text-align: center;     text-decoration: none;}
+.menu ul li.doc a { background: url('/images/documentation.png') 15px top no-repeat; }
+.menu ul li.code a { background: url('/images/code.png') 0 top no-repeat; }
+.menu ul li.follow a { background: url('/images/follow.png') 0 top no-repeat; }
+.menu ul li.mailing a { background: url('/images/mailing.png') 0 top no-repeat; }
+.menu ul li a:hover { color:#fff; text-decoration: underline;}

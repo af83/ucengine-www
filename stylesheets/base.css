@@ -1,6 +1,6 @@
 body { margin: 0; padding: 0; color:#FFF; font-family:Arial, Helvetica, sans-serif; color: #3a383a; background: -moz-radial-gradient(50% 50% 159deg,circle cover, #5A5B5D, #5A5B5D, #474648 70%); background: -webkit-gradient(radial,50% 50%,0,50% 50%,500, from(#5A5B5D), to(#474648)); background-color: #474749; } 
 .content { width: 100%; margin: 0 auto; }
-.menu { width: 615px; margin: 0 auto; padding: 60px 0 200px 120px;}
+.menu { width: 615px; margin: 0 auto; padding: 60px 0 0 0;}
 .menu h1 a { display: block; height: 360px; margin: 0; font: normal 144px "trebuchet MS"; color: #0094ac; text-indent: -3000px; background: url('../images/logo.png') 0 0 no-repeat;}
 .menu h2 { margin: 0; font: normal 30px arial; letter-spacing: 3px;}
 .menu h2 span { font: normal 36px arial; color: #0094b3; }
